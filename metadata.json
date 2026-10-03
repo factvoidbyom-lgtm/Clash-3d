@@ -1,0 +1,6 @@
+{
+  "name": "Cartoon Sling Clash 2D",
+  "description": "Physics-based cartoon projectile battle game featuring intuitive drag-and-release aiming, dynamic camera tracking, AI vs Player and local 2-Player modes, sound effects, and round-based scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
